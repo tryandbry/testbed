@@ -6,6 +6,7 @@ Boilerplate for mocha/chai testing.
 `git remote add testbed https://github.com/tryandbry/testbed.git`<br/>
 `git fetch testbed`<br/>
 `git merge testbed/master`<br/>
+`npm install`
 
 ## To test:
 Put your code in `./index.js` and your unit tests in `*test.js`<br/>
