@@ -8,6 +8,8 @@ Boilerplate for mocha/chai testing.
 `git merge testbed/master`<br/>
 `npm install`
 
+After everything is installed, don't forget to update `package.json` with details of your project!
+
 ## To test:
 Put your code in `./index.js` and your unit tests in `*test.js`<br/>
 Execute `npm test`
